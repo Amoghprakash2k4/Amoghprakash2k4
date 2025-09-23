@@ -2,17 +2,17 @@
 
 preview
 <h1 align="center">Hi 👋, I'm Amogh P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A data-driven engineer from India passionate about building real-time systems with Kafka and Spark, and exploring Machine Learning for intelligent insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoghprakash2k4&label=Profile%20views&color=0e75b6&style=flat" alt="amoghprakash2k4" /> </p>
 
-- 🔭 I’m currently working on **Network**
+- 🔭 I’m currently working on **Real time systems**
 
-- 🌱 I’m currently learning **DSA, Networking**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **A.I**
 
-- 💬 Ask me about **C programming**
+- 💬 Ask me about **C/C++ programming**
 
 - 📫 How to reach me **amogh.p27@gmail.com**
 
